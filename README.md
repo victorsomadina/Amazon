@@ -11,3 +11,7 @@ Being the most important column for the analysis, I carefully assessed the revie
 
 >**Note**: You can find the code to the entire project attached [here](https://github.com/victorsomadina/Amazon/blob/main/Sentiment%20Amazon%20Analysis%20.ipynb)
 
+### Insight
+![Amazo sentiment](https://github.com/victorsomadina/Amazon/assets/103338741/8bcdc420-4f4f-41c4-9a72-b9aa0ae5ed63)
+
+From the image above, you can see that there are more positive reviews from the customers, which shows that majority of the customers are satisfied with the product being sold to them and also with the services rendered, though a little more improvement can be done. 
