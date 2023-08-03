@@ -9,3 +9,4 @@ The dataset was downloaded from Kaggle and you can access the dataset using the 
 ### Data Assessing and Cleaning 
 Being the most important column for the analysis, I carefully assessed the review column and there was little or no issues with the dataset. 
 Find the code to the entire project attached here [here]https://github.com/victorsomadina/Amazon/blob/main/Sentiment%20Amazon%20Analysis%20.ipynb
+yes
