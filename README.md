@@ -15,3 +15,7 @@ Being the most important column for the analysis, I carefully assessed the revie
 ![Amazo sentiment](https://github.com/victorsomadina/Amazon/assets/103338741/8bcdc420-4f4f-41c4-9a72-b9aa0ae5ed63)
 
 From the image above, you can see that there are more positive reviews from the customers, which shows that majority of the customers are satisfied with the product being sold to them and also with the services rendered, though a little more improvement can be done. 
+
+Also, to support this analysis, analysis on the review rating was also carried out and the result is seen below.
+![rating amazon](https://github.com/victorsomadina/Amazon/assets/103338741/25ce49f2-c562-4404-a879-9086697fd9e2)
+
