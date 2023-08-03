@@ -19,3 +19,5 @@ From the image above, you can see that there are more positive reviews from the 
 Also, to support this analysis, analysis on the review rating was also carried out and the result is seen below.
 ![rating amazon](https://github.com/victorsomadina/Amazon/assets/103338741/25ce49f2-c562-4404-a879-9086697fd9e2)
 
+### Conclusion 
+Analysis above shows that the rating and reviews gotten from customers on the performance of the product and services rendered is a positive one, and it has been a good work from every department to make this happen. 
